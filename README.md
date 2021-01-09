@@ -1,4 +1,3 @@
-# Avarise.github.io
 # Bio
 Nazywam się Sebastian Czapla
 Interesuje się programowaniem mikroprocesorów a także innych niskopoziomowych zagadnień związanych z językami C/C++ między innymi:
